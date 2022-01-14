@@ -1,1 +1,2 @@
-# C24-pirates-stage-4
+# PRO-C25-SA
+boilerplate code for student activituy
